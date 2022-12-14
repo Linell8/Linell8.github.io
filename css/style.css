@@ -450,6 +450,7 @@ button {
     line-height: 16px;
     max-width: 166px;
     margin-left: auto;
+    min-width: 86px;
 }
 
 .work_but:hover {
@@ -640,6 +641,7 @@ button {
     font-size: 14px;
     line-height: 16px;
     margin-top: 64px;
+    min-width: 54px;
 }
 
 .collection button:hover {
@@ -726,6 +728,7 @@ button {
     font-weight: 700;
     font-size: 14px;
     line-height: 16px;
+    min-width: 54px;
 }
 
 .topnft button:hover {
